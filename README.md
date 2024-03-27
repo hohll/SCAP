@@ -7,6 +7,6 @@
 ## Ressources
 - [MDN](https://developer.mozilla.org/fr/)
 - [W3Schools](https://www.w3schools.com/)
-- [Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
-- [Flex](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/), [Flex Cheatsheet](https://yoksel.github.io/flex-cheatsheet/) et [Flex Visual Cheatsheet](https://flexbox.malven.co/)  
+- [Flex](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/), [Grid Cheatsheet](https://alialaa.github.io/css-grid-cheat-sheet/) et [Grid Visual Cheatsheet](https://grid.malven.co/)
 - [Flex ou Grid ?](https://css-irl.info/to-grid-or-to-flex/)
