@@ -5,8 +5,8 @@
 - [CSS](https://github.com/hohll/SCAP/blob/main/CSS/CSS%203%20rappels%20et%20nouveaut%C3%A9s%20-%201%20.pdf)
 
 ## Ressources
-[MDN](https://developer.mozilla.org/fr/)
-[W3Schools](https://developer.mozilla.org/fr/](https://www.w3schools.com/)
-[Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
-[Flex](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
-[Flex ou Grid ?](https://css-irl.info/to-grid-or-to-flex/)
+- [MDN](https://developer.mozilla.org/fr/)
+- [W3Schools](https://www.w3schools.com/)
+- [Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+- [Flex](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [Flex ou Grid ?](https://css-irl.info/to-grid-or-to-flex/)
