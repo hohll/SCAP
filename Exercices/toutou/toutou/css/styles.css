@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  /* 10px / 16px = 0.625 = 62.5 */
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: ...; /* Rubik... */
+  line-height: 1.5;
+  font-size: 1.5rem; /* Soit 15px */
+  font-weight: 400;
+  overflow-x: hidden;
+  color: #523414;
+  background-color: #e9be5a;
+}
+
+/* Autre règles générales, utilitaires à ajouter ci-dessous */
+
+/* ****************** */
+/* Header 			      */
+/* ****************** */
+/* ****************** */
+/* Logo 			        */
+/* ****************** */
+
+
+/* ****************** */
+/* Navigation */
+/* ****************** */
+
+
+/* ****************** */
+/* Accroche           */
+/* ****************** */
+
+
+/* ****************** */
+/* Nos Services       */
+/* ****************** */
+
+
+/* ****************** */
+/* A propos           */
+/* ****************** */
+
+
+/* ****************** */
+/* Footer */
+/* ****************** */
