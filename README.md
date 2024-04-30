@@ -1,4 +1,8 @@
 # SCAP
+
+## Cours en ligne du 6 Mai
+[Accéder à la conférence en ligne ](https://meet.jit.si/moderated/f991d7763abd6ab66202654177cb5a592eadd8500405b090367dd7825bcb6a91)
+
 ## Cours
 - [Introduction](https://github.com/hohll/SCAP/blob/main/Introduction/HTML%205%20_%20CSS%203%20_%20JS%20-%20Introduction.pdf)
 - [HTML](https://github.com/hohll/SCAP/blob/main/HTML/HTML%20les%20derni%C3%A8res%20nouveaut%C3%A9s.pdf)
