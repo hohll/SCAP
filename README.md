@@ -5,7 +5,7 @@
 - [CSS](https://github.com/hohll/SCAP/blob/main/CSS/CSS%203%20rappels%20et%20nouveaut%C3%A9s%20-%201%20.pdf)
 
 ## Exercices
-- [ 1 - Toutou - Page HTML/CSS à construire ](https://github.com/hohll/SCAP/tree/main/Exercices/toutou)
+- [ 1 - Toutou - Page HTML/CSS à construire ](https://github.com/hohll/SCAP/tree/main/Exercices/toutou) - [ Correction ](https://github.com/hohll/SCAP/blob/main/Exercices/toutou/toutou-corrige.zip)
 
 ## Ressources
 - [MDN](https://developer.mozilla.org/fr/)
